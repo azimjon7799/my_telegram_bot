@@ -3,10 +3,6 @@
 /node_modules
 /build
 
-# environment
-.env
-.env.*
-
 # Logs
 logs
 *.log
@@ -41,6 +37,7 @@ lerna-debug.log*
 
 # dotenv environment variable files
 .env
+.env.*
 .env.development.local
 .env.test.local
 .env.production.local
